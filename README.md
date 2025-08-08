@@ -1,2 +1,9 @@
-# Emotion-Detection-CNN
-A deep learning-based emotion detection system using Convolutional Neural Networks (CNN) to classify human facial expressions into multiple emotion categories. Built with TensorFlow/Keras, OpenCV, and Python.
+# Emotion Detection using CNN
+
+This project implements a Convolutional Neural Network (CNN) to detect emotions from facial images. The model is trained to classify expressions such as **Happy**, **Sad**, **Angry**, **Surprise**, and more.
+
+## Features
+- Face detection using OpenCV
+- Emotion classification using CNN
+- Model trained on facial emotion dataset (FER2013 or similar)
+- Real-time emotion detection capability
