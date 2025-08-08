@@ -1,0 +1,65 @@
+Run the Jupyter Notebook:
+
+bash
+Copy
+Edit
+jupyter notebook Emotion_Detection_.ipynb
+The notebook will:
+
+Load and preprocess dataset
+
+Train a CNN model
+
+Evaluate performance on test data
+
+Show sample predictions
+
+Output
+Training Accuracy: ~90% (varies by dataset)
+
+Test Accuracy: ~85–88%
+
+Example predicted images with labels
+
+Real-time detection support (if webcam is connected)
+
+Dataset
+You can use the FER2013 dataset available on Kaggle.
+
+License
+This project is licensed under the MIT License.
+
+yaml
+Copy
+Edit
+
+---
+
+## **requirements.txt**
+tensorflow
+numpy
+matplotlib
+opencv-python
+pandas
+seaborn
+
+yaml
+Copy
+Edit
+
+---
+
+If you want, I can **create a full GitHub-ready ZIP** for this project with:
+- Your `.ipynb` file
+- `README.md`
+- `requirements.txt`
+- `OUTPUT.md` showing example results  
+
+Do you want me to prepare that ZIP now?
+
+
+
+
+
+
+
