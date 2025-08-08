@@ -1,0 +1,4 @@
+## Requirements
+```bash
+pip install tensorflow numpy matplotlib opencv-python
+pip install seaborn pandas
